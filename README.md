@@ -1,9 +1,9 @@
-# A Manual Archipelago for You Have to Win The Game
+# A Manual Archipelago for You Have to Win the Game
 
 Requirements
 * Archipelago 0.6.5 or later
 * Manual Client for Archipelago
-* A Steam installation of You Have to Win The Game (don't worry, it's free!)
+* A Steam installation of You Have to Win the Game (don't worry, it's free!)
 
 Setup
 * Find your personal folder for YHTWTG.
