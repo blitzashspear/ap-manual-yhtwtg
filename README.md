@@ -23,7 +23,7 @@ Playing
 * The rest of the letters are mixed in as filler for funsies.
 
 Changes
-* The map mod has extra platforms to prevent softlocking and allows you to backtrack to the start.
+* The map mod has extra platforms and teleporters to prevent softlocking and allows you to backtrack to the start.
 * The orbs have been replaced with the money bag item.
 * The texture mod replaces all of the money bags and pirate hearts with the Archipelago logo.
 
