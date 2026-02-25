@@ -1,0 +1,29 @@
+{
+  "Starting Area": {
+    "connects_to": [
+      "Teleporter Area",
+      "Castle Area Outer",
+      "End Game Area"
+    ],
+    "requires": "",
+    "starting": true
+  },
+  "Teleporter Area": {
+    "connects_to": [],
+    "requires": "|Crimson Aura|"
+  },
+  "Castle Area Outer": {
+    "connects_to": [
+      "Castle Area Inner"
+    ],
+    "requires": "|Cerulean Aura| AND |Crimson Aura| AND |Springheel Boots|"
+  },
+  "Castle Area Inner": {
+    "connects_to": [],
+    "requires": "|Spider Gloves|"
+  },
+  "End Game Area": {
+    "connects_to": [],
+    "requires": "|Springheel Boots| AND |Spider Gloves|"
+  }
+}

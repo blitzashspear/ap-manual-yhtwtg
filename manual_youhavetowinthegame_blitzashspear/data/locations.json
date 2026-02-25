@@ -1,0 +1,555 @@
+[
+  {
+    "victory": true,
+    "name": "Win The Game",
+    "category": [
+      "GOAL"
+    ],
+    "requires": "|Letter S| AND |Letter U| AND |Letter P| AND |Letter E| AND |Letter R|",
+    "region": "End Game Area"
+  },
+  {
+    "name": "Abandoned Alcove",
+    "category": [
+      "Category A"
+    ],
+    "requires": "|Springheel Boots| AND |Spider Gloves|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "An Even 0x80",
+    "category": [
+      "Category A"
+    ],
+    "requires": "",
+    "region": "Castle Area Inner"
+  },
+  {
+    "name": "Aqueous Humor",
+    "category": [
+      "Category A"
+    ],
+    "requires": "|Springheel Boots|",
+    "region": "Teleporter Area"
+  },
+  {
+    "name": "Arcane Vocabulary Upper",
+    "category": [
+      "Category A"
+    ],
+    "requires": "|Springheel Boots| AND |Spider Gloves|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Arcane Vocabulary Lower",
+    "category": [
+      "Category A"
+    ],
+    "requires": "",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Artisan Stone Walls",
+    "category": [
+      "Category A"
+    ],
+    "requires": "|Cerulean Aura|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Attic Storeroom Left",
+    "category": [
+      "Category A"
+    ],
+    "requires": "",
+    "region": "Castle Area Inner"
+  },
+  {
+    "name": "Attic Storeroom Right",
+    "category": [
+      "Category A"
+    ],
+    "requires": "",
+    "region": "Castle Area Outer"
+  },
+  {
+    "name": "Avalon Calling",
+    "category": [
+      "Category A"
+    ],
+    "requires": "|Spider Gloves|",
+    "region": "Teleporter Area"
+  },
+  {
+    "name": "Bat Cave",
+    "category": [
+      "Category B"
+    ],
+    "requires": "|Springheel Boots|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Cave In",
+    "category": [
+      "Category C"
+    ],
+    "requires": "",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Cerulean Aura",
+    "category": [
+      "Category C"
+    ],
+    "requires": "",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Circular Logic",
+    "category": [
+      "Category C"
+    ],
+    "requires": "|Crimson Aura|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Cognitive Resonance",
+    "category": [
+      "Category C"
+    ],
+    "requires": "|Cerulean Aura| AND |Crimson Aura|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Contrived Lock/Key Mechanism",
+    "category": [
+      "Category C"
+    ],
+    "requires": "|Cerulean Aura| OR |Springheel Boots|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Consolation Prize",
+    "category": [
+      "Category C"
+    ],
+    "requires": "",
+    "region": "End Game Area"
+  },
+  {
+    "name": "Covert Operations Left",
+    "category": [
+      "Category C"
+    ],
+    "requires": "",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Covert Operations Right",
+    "category": [
+      "Category C"
+    ],
+    "requires": "",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Crimson Aura",
+    "category": [
+      "Category C"
+    ],
+    "requires": "",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Danger",
+    "category": [
+      "Category D"
+    ],
+    "requires": "|Springheel Boots| OR |Spider Gloves|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Descent",
+    "category": [
+      "Category D"
+    ],
+    "requires": "",
+    "region": "Teleporter Area"
+  },
+  {
+    "name": "Don't Be Hasty Upper",
+    "category": [
+      "Category D"
+    ],
+    "requires": "|Cerulean Aura| AND |Spider Gloves|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Don't Be Hasty Lower",
+    "category": [
+      "Category D"
+    ],
+    "requires": "|Crimson Aura|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Euclid Shrugged",
+    "category": [
+      "Category E"
+    ],
+    "requires": "|Cerulean Aura| AND |Crimson Aura|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Forgotten Tunnels Left",
+    "category": [
+      "Category F"
+    ],
+    "requires": "|Springheel Boots|",
+    "region": "Teleporter Area"
+  },
+  {
+    "name": "Forgotten Tunnels Right",
+    "category": [
+      "Category F"
+    ],
+    "requires": "",
+    "region": "Teleporter Area"
+  },
+  {
+    "name": "Great Hall",
+    "category": [
+      "Category G"
+    ],
+    "requires": "",
+    "region": "Castle Area Inner"
+  },
+  {
+    "name": "Hardcore Prawn",
+    "category": [
+      "Category H"
+    ],
+    "requires": "",
+    "region": "End Game Area"
+  },
+  {
+    "name": "Hidden Crevasse",
+    "category": [
+      "Category H"
+    ],
+    "requires": "|Springheel Boots| AND |Spider Gloves|",
+    "region": "Teleporter Area"
+  },
+  {
+    "name": "Hops and Skips",
+    "category": [
+      "Category H"
+    ],
+    "requires": "|Springheel Boots|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Hydra Is Myth",
+    "category": [
+      "Category H"
+    ],
+    "requires": "|Springheel Boots| AND |Spider Gloves|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "KISS Principle",
+    "category": [
+      "Category K"
+    ],
+    "requires": "|Spider Gloves|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Leap of Faith",
+    "category": [
+      "Category L"
+    ],
+    "requires": "|Spider Gloves|",
+    "region": "Castle Area Outer"
+  },
+  {
+    "name": "Like Ivy, Twisting",
+    "category": [
+      "Category L"
+    ],
+    "requires": "",
+    "region": "Teleporter Area"
+  },
+  {
+    "name": "Maps and Legends",
+    "category": [
+      "Category M"
+    ],
+    "requires": "|Springheel Boots| AND |Spider Gloves|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Mind the Gap",
+    "category": [
+      "Category M"
+    ],
+    "requires": "|Crimson Aura|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Never Could See Any Other Way",
+    "category": [
+      "Category N"
+    ],
+    "requires": "|Cerulean Aura|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Nice of You to Drop In",
+    "category": [
+      "Category N"
+    ],
+    "requires": "",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Not Worth It!",
+    "category": [
+      "Category N"
+    ],
+    "requires": "",
+    "region": "Castle Area Inner"
+  },
+  {
+    "name": "Obvious Movie Quote",
+    "category": [
+      "Category O"
+    ],
+    "requires": "",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Pit Stop",
+    "category": [
+      "Category P"
+    ],
+    "requires": "|Springheel Boots|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Playing with Fire",
+    "category": [
+      "Category P"
+    ],
+    "requires": "",
+    "region": "End Game Area"
+  },
+  {
+    "name": "Prawn Shot First",
+    "category": [
+      "Category P"
+    ],
+    "requires": "(|Springheel Boots| OR |Spider Gloves|) AND |Crimson Aura|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Precarious Footholds",
+    "category": [
+      "Category P"
+    ],
+    "requires": "|Cerulean Aura| AND |Crimson Aura|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Remnants of a Past Unknown",
+    "category": [
+      "Category R"
+    ],
+    "requires": "|Crimson Aura| OR |Springheel Boots|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Secret Cat Level Left",
+    "category": [
+      "Category S"
+    ],
+    "requires": "|Spider Gloves|",
+    "region": "Castle Area Outer"
+  },
+  {
+    "name": "Secret Cat Level Right",
+    "category": [
+      "Category S"
+    ],
+    "requires": "|Spider Gloves|",
+    "region": "Castle Area Outer"
+  },
+  {
+    "name": "Secret Passage",
+    "category": [
+      "Category S"
+    ],
+    "requires": "",
+    "region": "Teleporter Area"
+  },
+  {
+    "name": "Shelter from the Storm",
+    "category": [
+      "Category S"
+    ],
+    "requires": "|Springheel Boots| OR (|Crimson Aura| AND |Cerulean Aura|)",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Snake, It's a Snake",
+    "category": [
+      "Category S"
+    ],
+    "requires": "|Spider Gloves|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Spider Gloves",
+    "category": [
+      "Category S"
+    ],
+    "requires": "",
+    "region": "Castle Area Outer"
+  },
+  {
+    "name": "Springheel Boots",
+    "category": [
+      "Category S"
+    ],
+    "requires": "",
+    "region": "Teleporter Area"
+  },
+  {
+    "name": "Subterranea",
+    "category": [
+      "Category S"
+    ],
+    "requires": "",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Swimming Upstream",
+    "category": [
+      "Category S"
+    ],
+    "requires": "|Spider Gloves|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Taking the Long Way Left",
+    "category": [
+      "Category T"
+    ],
+    "requires": "|Spider Gloves| OR (|Crimson Aura| AND |Springheel Boots|)",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Taking the Long Way Right",
+    "category": [
+      "Category T"
+    ],
+    "requires": "|Cerulean Aura| AND |Crimson Aura| AND |Springheel Boots| AND |Spider Gloves|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "The Arbitrarium",
+    "category": [
+      "Category T"
+    ],
+    "requires": "|Springheel Boots| AND |Spider Gloves|",
+    "region": "Teleporter Area"
+  },
+  {
+    "name": "The Coin and the Courage",
+    "category": [
+      "Category T"
+    ],
+    "requires": "",
+    "region": "End Game Area"
+  },
+  {
+    "name": "The Crab Cake Is a Lie",
+    "category": [
+      "Category T"
+    ],
+    "requires": "",
+    "region": "Teleporter Area"
+  },
+  {
+    "name": "The Floor Is Lava",
+    "category": [
+      "Category T"
+    ],
+    "requires": "",
+    "region": "Castle Area Inner"
+  },
+  {
+    "name": "The Proper Motivation",
+    "category": [
+      "Category T"
+    ],
+    "requires": "",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Tower of Regrets",
+    "category": [
+      "Category T"
+    ],
+    "requires": "|Crimson Aura| AND (|Spider Gloves| OR |Cerulean Aura|)",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Tower of Sorrows",
+    "category": [
+      "Category T"
+    ],
+    "requires": "|Cerulean Aura| OR |Springheel Boots|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Treasure Hunt",
+    "category": [
+      "Category T"
+    ],
+    "requires": "",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Uncertain Semiotics",
+    "category": [
+      "Category U"
+    ],
+    "requires": "|Springheel Boots|",
+    "region": "Starting Area"
+  },
+  {
+    "name": "Vestibule",
+    "category": [
+      "Category V"
+    ],
+    "requires": "",
+    "region": "Castle Area Outer"
+  },
+  {
+    "name": "Yggdrasil",
+    "category": [
+      "Category Y"
+    ],
+    "requires": "",
+    "region": "Starting Area"
+  },
+  {
+    "name": "You Have to Start the Game",
+    "category": [
+      "Category Y"
+    ],
+    "requires": "|Springheel Boots| AND |Spider Gloves|",
+    "region": "Starting Area"
+  }
+]

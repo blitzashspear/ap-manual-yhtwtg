@@ -1,0 +1,242 @@
+[
+  {
+    "count": 1,
+    "name": "Cerulean Aura",
+    "category": [
+      "Power-Up"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crimson Aura",
+    "category": [
+      "Power-Up"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Springheel Boots",
+    "category": [
+      "Power-Up"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spider Gloves",
+    "category": [
+      "Power-Up"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Letter A",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter B",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter C",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter D",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter E",
+    "category": [
+      "Letter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Letter F",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter G",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter H",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter I",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter J",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter K",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter L",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter M",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter N",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter O",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter P",
+    "category": [
+      "Letter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Letter Q",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter R",
+    "category": [
+      "Letter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Letter S",
+    "category": [
+      "Letter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Letter T",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter U",
+    "category": [
+      "Letter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Letter V",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter W",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter X",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter Y",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Letter Z",
+    "category": [
+      "Letter"
+    ],
+    "filler": true
+  }
+]
