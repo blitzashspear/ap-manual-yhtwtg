@@ -12,7 +12,7 @@ Setup
 * This is NOT the same as the folder where the executable is.
 * Take everything in Maps and place all of the files into the Maps folder.
 * Take everything in Mods and place both files into the Mods folder.
-* Take Autosave.vsg and place it into the Saves folder. Alternatively, you can edit your save manually as you play.
+* Take everything in Saves and place it into the Saves folder. Alternatively, you can edit your save manually as you play.
 * If everything was installed correctly, when booting the game, you should have the option to continue from a save called Archipelago.
   Connect your Manual Client like any other manual and enjoy!
 
