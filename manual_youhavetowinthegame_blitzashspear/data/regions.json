@@ -10,7 +10,7 @@
   },
   "Teleporter Area": {
     "connects_to": [],
-    "requires": "|Crimson Aura|"
+    "requires": "|Crimson Aura| OR |Springheel Boots| OR |Spider Gloves|"
   },
   "Castle Area Outer": {
     "connects_to": [

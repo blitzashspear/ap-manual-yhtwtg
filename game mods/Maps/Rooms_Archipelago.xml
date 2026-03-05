@@ -1,5 +1,5 @@
 <room x="-3" y="0" title="You Have to Start the Game">
-	<entity template="bell" x="75" y="148" dx="0" dy="0" />
+
 </room>
 
 <room x="-2" y="0" title="KISS Principle">
@@ -20,18 +20,11 @@
 </room>
 
 <room x="0" y="1" title="Abstract Bridge">
-	<entity template="lift" x="130" y="200" speed="0" dx="0" dy="0"/>
-	<entity template="lift" x="80" y="170" speed="0" dx="0" dy="0"/>
-	<entity template="lift" x="80" y="140" speed="0" dx="0" dy="0"/>
-	<entity template="lift" x="80" y="110" speed="0" dx="0" dy="0"/>
-	<entity template="lift" x="80" y="80" speed="0" dx="0" dy="0"/>
-	<entity template="lift" x="110" y="50" speed="48" dx="1" dy="0"/>
-	<entity template="lift" x="120" y="20" speed="0" dx="0" dy="0"/>
+
 </room>
 
 <room x="0" y="2" title="Which Path Will I Take?">
-	<entity template="lift" x="160" y="171" speed="48" dx="0" dy="-1"/>
-	<entity template="lift" x="130" y="10" speed="0" dx="0" dy="0"/>
+
 </room>
 
 <room x="-2" y="2" title="Pit of Spikes">
@@ -352,6 +345,8 @@
 </room>
 
 <room x="-1" y="2" title="Subterranea">
+	<entity template="gate" x="165" y="90"
+		destwx="0" destwy="0" destrx="140" destry="50"/>
 	<entity template="crumbler" x="224" y="60" />
 </room>
 
