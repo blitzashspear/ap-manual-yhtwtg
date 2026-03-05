@@ -16,7 +16,6 @@ Setup
   Connect your Manual Client like any other manual and enjoy!
 
 Playing
-* Since I've given you all of your major items in the save file, it is your responsibility to not use them until you have recieved the check in the client.
 * In the original game, once you get all 4 of your major items you can go directly to the goal.
 * I have changed the goal condition. In order to goal you must find the letters that make up the magic word. These are E, P, R, S, and U.
 * The rest of the letters are mixed in as filler for funsies.

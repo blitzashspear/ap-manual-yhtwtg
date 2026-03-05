@@ -222,7 +222,7 @@
       "Category G"
     ],
     "requires": "",
-    "region": "Castle Area Inner"
+    "region": "Castle Area Outer"
   },
   {
     "name": "Hardcore Prawn",
@@ -301,7 +301,7 @@
     "category": [
       "Category N"
     ],
-    "requires": "|Cerulean Aura|",
+    "requires": "|Cerulean Aura| OR (|Springheel Boots| AND |Spider Gloves|)",
     "region": "Starting Area"
   },
   {
@@ -373,16 +373,16 @@
     "category": [
       "Category S"
     ],
-    "requires": "|Spider Gloves|",
-    "region": "Castle Area Outer"
+    "requires": "",
+    "region": "End Game Area"
   },
   {
     "name": "Secret Cat Level Right",
     "category": [
       "Category S"
     ],
-    "requires": "|Spider Gloves|",
-    "region": "Castle Area Outer"
+    "requires": "",
+    "region": "End Game Area"
   },
   {
     "name": "Secret Passage",
