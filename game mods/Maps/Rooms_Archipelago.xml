@@ -346,7 +346,7 @@
 
 <room x="-1" y="2" title="Subterranea">
 	<entity template="gate" x="165" y="90"
-		destwx="0" destwy="0" destrx="110" destry="50"/>
+		destwx="0" destwy="0" destrx="140" destry="50"/>
 	<entity template="crumbler" x="224" y="60" />
 </room>
 
