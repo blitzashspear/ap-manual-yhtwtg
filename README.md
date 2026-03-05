@@ -16,7 +16,7 @@ Setup
   Connect your Manual Client like any other manual and enjoy!
 
 Playing
-* In the original game, once you get all 4 of your major items you can go directly to the goal.
+* In the original game, once you get all 4 of your power-ups you can go directly to the goal.
 * I have changed the goal condition. In order to goal you must find the letters that make up the magic word. These are E, P, R, S, and U.
 * The rest of the letters are mixed in as filler for funsies.
 * Once you recieve a power-up, open the console with the ~ key and type in the corresponding command:
