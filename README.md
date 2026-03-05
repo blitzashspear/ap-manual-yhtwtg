@@ -11,7 +11,7 @@ Setup
 * This folder should contain a bunch of other folders.
 * This is NOT the same as the folder where the executable is.
 * Take everything in Maps and place all of the files into the Maps folder.
-* Take everything in Mods and place both files into the Mods folder.
+* Take everything in Mods and place all of the files into the Mods folder.
 * If everything was installed correctly, when booting the game, you should be able to select a map called "Archipelago".
   Connect your Manual Client like any other manual and enjoy!
 
