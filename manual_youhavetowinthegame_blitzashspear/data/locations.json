@@ -301,7 +301,7 @@
     "category": [
       "Category N"
     ],
-    "requires": "|Cerulean Aura| OR (|Springheel Boots| AND |Spider Gloves|)",
+    "requires": "|Cerulean Aura| OR |Springheel Boots| OR |Spider Gloves|",
     "region": "Starting Area"
   },
   {
